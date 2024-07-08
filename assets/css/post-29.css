@@ -1,0 +1,318 @@
+.elementor-29 .elementor-element.elementor-element-2f550353 {
+	margin-top: 0px;
+	margin-bottom: -2px;
+}
+
+.elementor-42 .elementor-element.elementor-element-60358cc {
+	--display: flex;
+	--flex-direction: column;
+	--container-widget-width: 100%;
+	--container-widget-height: initial;
+	--container-widget-flex-grow: 0;
+	--container-widget-align-self: initial;
+	--background-transition: 0.3s;
+	--padding-block-start: 0px;
+	--padding-block-end: 0px;
+	--padding-inline-start: 0px;
+	--padding-inline-end: 0px;
+}
+
+.elementor-42 .elementor-element.elementor-element-5107ae8 {
+	width: auto;
+	max-width: auto;
+	top: -1px;
+	z-index: 99;
+}
+
+.elementor-42 .elementor-element.elementor-element-5107ae8.elementor-element {
+	--align-self: flex-end;
+}
+
+body:not(.rtl) .elementor-42 .elementor-element.elementor-element-5107ae8 {
+	right: 0px;
+}
+
+body.rtl .elementor-42 .elementor-element.elementor-element-5107ae8 {
+	left: 0px;
+}
+
+@media(max-width:1024px) {
+	.elementor-42 .elementor-element.elementor-element-5107ae8 {
+		top: -28px;
+	}
+}
+
+@media(max-width:767px) {
+	body:not(.rtl) .elementor-42 .elementor-element.elementor-element-5107ae8 {
+		right: -40px;
+	}
+
+	body.rtl .elementor-42 .elementor-element.elementor-element-5107ae8 {
+		left: -40px;
+	}
+
+	.elementor-42 .elementor-element.elementor-element-5107ae8 {
+		top: -29px;
+	}
+}
+
+/* Start custom CSS for html, class: .elementor-element-5107ae8 */
+#btnPlay {
+	display: block;
+	width: 32px;
+	height: 32px;
+	transition: ease all 0.3s;
+	position: fixed;
+	right: 30px;
+	bottom: 95px;
+	z-index: 9998;
+}
+
+/* End custom CSS */
+.elementor-876 .elementor-element.elementor-element-587c2d13 {
+	--display: flex;
+	--flex-direction: row;
+	--container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+	--container-widget-height: 100%;
+	--container-widget-flex-grow: 1;
+	--container-widget-align-self: stretch;
+	--align-items: center;
+	--background-transition: 0.3s;
+}
+
+.elementor-876 .elementor-element.elementor-element-587c2d13,
+.elementor-876 .elementor-element.elementor-element-587c2d13::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-876 .elementor-element.elementor-element-22065cc {
+	--display: flex;
+	--gap: 10px 10px;
+	--background-transition: 0.3s;
+	--border-radius: 15px 15px 15px 15px;
+	--padding-block-start: 40px;
+	--padding-block-end: 50px;
+	--padding-inline-start: 30px;
+	--padding-inline-end: 30px;
+}
+
+.elementor-876 .elementor-element.elementor-element-22065cc:not(.elementor-motion-effects-element-type-background),
+.elementor-876 .elementor-element.elementor-element-22065cc>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+	background-color: #FFFFFFE6;
+}
+
+.elementor-876 .elementor-element.elementor-element-22065cc,
+.elementor-876 .elementor-element.elementor-element-22065cc::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-876 .elementor-element.elementor-element-7695afe3 {
+	text-align: center;
+}
+
+.elementor-876 .elementor-element.elementor-element-7695afe3 .elementor-heading-title {
+	color: #715300;
+	font-family: "Cormorant", Sans-serif;
+	font-size: 24px;
+	font-weight: 600;
+}
+
+.elementor-876 .elementor-element.elementor-element-1a3b6042 {
+	text-align: center;
+}
+
+.elementor-876 .elementor-element.elementor-element-1a3b6042 .elementor-heading-title {
+	color: #715300;
+	font-family: "Cormorant", Sans-serif;
+	font-size: 24px;
+	font-weight: 500;
+}
+
+.elementor-876 .elementor-element.elementor-element-1a3b6042>.elementor-widget-container {
+	margin: 0px 0px 20px 0px;
+}
+
+.elementor-876 .elementor-element.elementor-element-4f8989eb {
+	width: 100%;
+	max-width: 100%;
+}
+
+.elementor-876 .elementor-element.elementor-element-e63a6e7 {
+	--display: flex;
+	--background-transition: 0.3s;
+	--border-radius: 15px 15px 15px 15px;
+	--padding-block-start: 30px;
+	--padding-block-end: 30px;
+	--padding-inline-start: 30px;
+	--padding-inline-end: 30px;
+}
+
+.elementor-876 .elementor-element.elementor-element-e63a6e7:not(.elementor-motion-effects-element-type-background),
+.elementor-876 .elementor-element.elementor-element-e63a6e7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+	background-color: #FFFFFFE6;
+}
+
+.elementor-876 .elementor-element.elementor-element-e63a6e7,
+.elementor-876 .elementor-element.elementor-element-e63a6e7::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-876 .elementor-element.elementor-element-26181bf .elementor-icon-wrapper {
+	text-align: center;
+}
+
+.elementor-876 .elementor-element.elementor-element-26181bf.elementor-view-stacked .elementor-icon {
+	background-color: var(--e-global-color-e64b608);
+}
+
+.elementor-876 .elementor-element.elementor-element-26181bf.elementor-view-framed .elementor-icon,
+.elementor-876 .elementor-element.elementor-element-26181bf.elementor-view-default .elementor-icon {
+	color: var(--e-global-color-e64b608);
+	border-color: var(--e-global-color-e64b608);
+}
+
+.elementor-876 .elementor-element.elementor-element-26181bf.elementor-view-framed .elementor-icon,
+.elementor-876 .elementor-element.elementor-element-26181bf.elementor-view-default .elementor-icon svg {
+	fill: var(--e-global-color-e64b608);
+}
+
+.elementor-876 .elementor-element.elementor-element-b450f2e {
+	text-align: center;
+}
+
+.elementor-876 .elementor-element.elementor-element-b450f2e .elementor-heading-title {
+	color: var(--e-global-color-e64b608);
+	font-family: "BodoniBE Small", Sans-serif;
+	font-size: 28px;
+	font-weight: 600;
+}
+
+.elementor-876 .elementor-element.elementor-element-268a6b6 {
+	text-align: center;
+}
+
+.elementor-876 .elementor-element.elementor-element-268a6b6 .elementor-heading-title {
+	color: var(--e-global-color-e64b608);
+	font-family: "BodoniBE Small", Sans-serif;
+	font-size: 28px;
+	font-weight: 500;
+}
+
+.elementor-876 .elementor-element.elementor-element-e0be88e {
+	width: 100%;
+	max-width: 100%;
+}
+
+#elementor-popup-modal-876 .dialog-message {
+	width: 100vw;
+	height: 100vh;
+	align-items: center;
+}
+
+#elementor-popup-modal-876 {
+	justify-content: center;
+	align-items: center;
+	pointer-events: all;
+	background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-876 .dialog-close-button {
+	display: flex;
+	font-size: 28px;
+}
+
+#elementor-popup-modal-876 .dialog-widget-content {
+	animation-duration: 0.6s;
+	background-image: url("https://laylialby.com/resepsi/wp-content/uploads/2023/10/1_BG.webp");
+	background-position: center center;
+	background-size: cover;
+	border-style: none;
+	box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+#elementor-popup-modal-876 .dialog-close-button i {
+	color: #D59109;
+}
+
+#elementor-popup-modal-876 .dialog-close-button svg {
+	fill: #D59109;
+}
+
+@media(max-width:1024px) {
+	.elementor-876 .elementor-element.elementor-element-7695afe3 .elementor-heading-title {
+		font-size: 24px;
+	}
+
+	.elementor-876 .elementor-element.elementor-element-1a3b6042 .elementor-heading-title {
+		font-size: 24px;
+	}
+
+	.elementor-876 .elementor-element.elementor-element-b450f2e .elementor-heading-title {
+		font-size: 24px;
+	}
+}
+
+@media(min-width:768px) {
+	.elementor-876 .elementor-element.elementor-element-587c2d13 {
+		--content-width: 720px;
+	}
+}
+
+@media(max-width:767px) {
+	.elementor-876 .elementor-element.elementor-element-587c2d13 {
+		--gap: 10px 1px;
+	}
+
+	.elementor-876 .elementor-element.elementor-element-22065cc {
+		--gap: 10px 10px;
+	}
+
+	.elementor-876 .elementor-element.elementor-element-7695afe3 .elementor-heading-title {
+		font-size: 20px;
+	}
+
+	.elementor-876 .elementor-element.elementor-element-1a3b6042 .elementor-heading-title {
+		font-size: 24px;
+	}
+
+	.elementor-876 .elementor-element.elementor-element-1a3b6042>.elementor-widget-container {
+		margin: 0px 0px 15px 0px;
+	}
+
+	.elementor-876 .elementor-element.elementor-element-b450f2e .elementor-heading-title {
+		font-size: 20px;
+	}
+
+	#elementor-popup-modal-876 .dialog-widget-content {
+		background-position: bottom center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+}
+
+/* Start custom CSS for html, class: .elementor-element-4f8989eb */
+button.salin {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
+
+/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-e0be88e */
+button.salin {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
+
+/* End custom CSS */
+/* Start Custom Fonts CSS */
+@font-face {
+	font-family: 'BodoniBE Small';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://laylialby.com/resepsi/wp-content/uploads/2023/12/Bodoni-BE-Small-Caps-Oldstyle-Regular.ttf') format('truetype');
+}
+
+/* End Custom Fonts CSS */

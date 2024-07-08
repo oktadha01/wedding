@@ -1,0 +1,158 @@
+.float-right {
+	float: right;
+}
+
+/* List Undangan */
+.notif-orange {
+	background-color: #ffab00;
+	border-color: #ffab00;
+}
+
+.notif-orange {
+	background-color: #ffab00;
+	border-color: #ffab00;
+}
+
+
+.text-burlywood {
+	color: burlywood;
+}
+
+.text-blueviolet {
+	color: blueviolet;
+}
+
+.text-tomato {
+	color: tomato;
+}
+
+.text-darkcyan {
+	color: darkcyan;
+}
+
+.text-powderblue {
+	color: powderblue;
+}
+
+.bg-text-success::-webkit-progress-value {
+	background: #198754;
+}
+
+.bg-text-behance::-webkit-progress-value {
+	background: #1769ff;
+}
+
+.bg-text-youtube::-webkit-progress-value {
+	background: #e52d27;
+}
+
+.bg-text-warning::-webkit-progress-value {
+	background: rgba(var(--bs-warning-rgb), var(--bs-text-opacity)) !important;
+}
+
+.bg-text-dribbble::-webkit-progress-value {
+	background: #ea4c89;
+}
+
+.bg-text-burlywood::-webkit-progress-value {
+	background: burlywood;
+}
+
+.bg-text-blueviolet::-webkit-progress-value {
+	background: blueviolet;
+}
+
+.bg-text-tomato::-webkit-progress-value {
+	background: tomato;
+}
+
+.bg-text-darkcyan::-webkit-progress-value {
+	background: darkcyan;
+}
+
+.bg-text-powderblue::-webkit-progress-value {
+	background: powderblue;
+}
+
+
+.btn-send:hover {
+	background-color: rgba(0, 210, 91, 0.2) !important;
+	background-image: none !important;
+	border-color: rgba(0, 210, 91, 0) !important;
+}
+
+.span-num-send {
+	background-color: #ffa500;
+	color: black;
+	font-weight: bold;
+	padding: 1px 6px;
+	border-radius: 4px;
+	border: 1px solid white;
+	font-size: small;
+	margin-left: 11px;
+}
+
+/* progress bar */
+.progress-section {
+	width: 100%;
+	max-width: 65vw;
+	border-radius: 40px;
+	background: #383636;
+	padding: 1rem 2rem;
+	margin: 0 auto;
+	box-shadow: 0px 1px 10px 0px #0000001f;
+}
+
+
+
+
+
+
+.task-progress  p{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	/* color: #525252; */
+	font-size: 1rem;
+	margin-bottom: 0;
+}
+
+/* span {
+	color: #525252;
+} */
+
+.progress {
+	width: 100%;
+	-webkit-appearance: none;
+	appearance: none;
+	border: none;
+	border-radius: 10px;
+	height: 1rem;
+}
+
+.progress::-webkit-progress-bar {
+	background-color: #525252;
+}
+
+.progress::-webkit-progress-bar,
+.progress::-webkit-progress-value {
+	border-radius: 10px;
+}
+
+.progress::-moz-progress-bar {
+	border-radius: 10px;
+}
+
+/* and progress bar */
+
+/* end List Undangan */
+/* Dash Admin */
+.delivery-process {
+	width: 40px;
+	height: 37px;
+	border-radius: 7px;
+	background: #80808069;
+	color: gray;
+}
+
+/* AND Dash Admin */
