@@ -1,6 +1,6 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/kina3126/public_html/absen.kanpa.co.id
+    - export DEPLOYPATH=/home/kina3126/public_html/wedding
     - /bin/cp -R application $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp -R upload $DEPLOYPATH
